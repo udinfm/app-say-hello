@@ -1,2 +1,4 @@
 github.com/udinfm/go-say-hello v1.0.2 h1:jmppR6aKswdwUf0cgtwE0MPhj2kxqGHsmG0ebjZxrjk=
 github.com/udinfm/go-say-hello v1.0.2/go.mod h1:NAUsHrc/r3OCMHpXauSvjEN6MZ+nzcg96ecTZyVGBto=
+github.com/udinfm/go-say-hello/v2 v2.0.0 h1:8zSd7ustlMRSew5+etVQKPMgv2QLiQWOrmGZfDMJwVs=
+github.com/udinfm/go-say-hello/v2 v2.0.0/go.mod h1:Ivg/NGOmCMUzPEYchgJhPzR/bIE+ZleYDF3jssf6IjY=
